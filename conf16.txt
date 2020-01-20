@@ -12,3 +12,4 @@ size_z = 60
 exhaustiveness = 8
 
 log = log16.txt
+out = xb16.pdbqt
