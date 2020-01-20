@@ -1,0 +1,14 @@
+receptor = 3dy7.pdbqt
+ligand = 1cs.pdbqt
+
+center_x = 40.697
+center_y = -15.511
+center_z = 5.812
+
+size_x = 40
+size_y = 62
+size_z = 60
+
+exhaustiveness = 8
+
+log = log05.txt
