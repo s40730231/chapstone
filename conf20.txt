@@ -12,3 +12,4 @@ size_z = 60
 exhaustiveness = 8
 
 log = log20.txt
+out = xb20.pdbqt
