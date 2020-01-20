@@ -12,3 +12,4 @@ size_z = 60
 exhaustiveness = 8
 
 log = log19.txt
+out = xb19.pdbqt
