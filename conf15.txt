@@ -12,3 +12,4 @@ size_z = 60
 exhaustiveness = 8
 
 log = log15.txt
+out = xb15.pdbqt
