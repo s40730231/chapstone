@@ -12,3 +12,4 @@ size_z = 60
 exhaustiveness = 8
 
 log = log05.txt
+out = xb05.pdbqt
