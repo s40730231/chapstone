@@ -12,3 +12,4 @@ size_z = 60
 exhaustiveness = 8
 
 log = log08.txt
+out = xb08.pdbqt
