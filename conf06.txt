@@ -12,3 +12,4 @@ size_z = 60
 exhaustiveness = 8
 
 log = log06.txt
+out = xb06.pdbqt
